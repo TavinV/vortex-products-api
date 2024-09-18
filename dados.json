@@ -16,7 +16,7 @@
 {
     "nome": "Camisa Praia Grande",
     "valor" : 170.10,
-    "frete-gratis" : true,
+    "frete-gratis" : false,
     "cores-disponiveis": 1,
     "imagem": "<img class=\"tall-rec-img\" src=\"img/camisapraiagrande.png\" />"
 },
