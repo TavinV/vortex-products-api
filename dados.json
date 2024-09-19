@@ -20,13 +20,15 @@
     "valor" : 170.10,
     "frete-gratis" : false,
     "cores-disponiveis": 1,
-    "imagem": "./img/camisapraiagrande.png"
+    "imagem": "./img/camisapraiagrande.png",
+    "img_class" : "long-rec-img"
 },
 {
     "nome": "Bola mikasa v200w",
     "valor" : 945.00,
     "frete-gratis" : true,
     "cores-disponiveis": 1,
-    "imagem": "./img/mikasa.jpg"
+    "imagem": "./img/mikasa.jpg",
+    "img_class" : "square-img"
 }
 ]
